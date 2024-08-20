@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: row-reverse;
+}
+#navbar {
+    display: flex;
+    flex-direction: column;
+    position: left;
+    text-align: left;
+}
+
+footer {
+    position: bottom;
+}
