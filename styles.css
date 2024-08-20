@@ -41,17 +41,16 @@ footer {
     font-weight: 400;
 }
 
-.nav-link:hover, #nav-header, a:hover, .leafgreen {
+.nav-link:hover, #nav-header, a:hover, .leafgreen, .explain {
     font-style: italic;
 }
 
 header {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 500;
 }
 
-
-li:not(.locke) {
+li {
     background-color: #fff5fb;
 }
 
